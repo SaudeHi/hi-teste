@@ -63,10 +63,11 @@ Todos os assets podem ser exportados através do próprio figma. Toda a iconogra
 
 ## API de exemplo sugerida
 
-Na raiz do projeto você encontra os arquivos [db](https://github.com/SaudeHi/hi-teste/blob/master) JSON a serem usados como modelo de api no projeto.
+Na raiz do projeto você encontra o arquivo [db](https://github.com/SaudeHi/hi-teste/blob/master) JSON para ser usado como modelo de api no projeto.
 
-Pode consumi-la através do endpoint https://my-json-server.typicode.com/SaudeHi/hi-teste
-A ferramenta https://my-json-server.typicode.com/ nos permite a criação do endpoint fake para testes
+Pode consumi-lo através do endpoint https://my-json-server.typicode.com/SaudeHi/hi-teste
+
+A ferramenta https://my-json-server.typicode.com/ permite a criação do endpoint fake para testes
 
 Exemplo:
 ```
