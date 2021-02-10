@@ -28,5 +28,8 @@
 		"city": "São Paulo",
 		"state":"SP"		
       }
-    ]
+    ],
+	"profile": {
+      "name": "Saude Hi"
+	}
   }
