@@ -63,13 +63,16 @@ Todos os assets podem ser exportados através do próprio figma. Toda a iconogra
 
 ## API de exemplo sugerida
 
-Na pasta [db](https://github.com/SaudeHi/hi-teste/blob/master/front-end/db) você encontra os arquivos JSON a serem usados no projeto.
+Na raiz do projeto [db](https://github.com/SaudeHi/hi-teste/blob/master) você encontra os arquivos db JSON a serem usados no projeto.
 
-Lembrando que você pode mudar as informações do JSON e até renomear o que quiser, desde que o que precisamos que seja exibido e a interação que pedimos seja atendida.
+Pode consumi-la através do https://my-json-server.typicode.com/
+Do qual nos permite a criação do endpoint fake com para testes
+Link do endpoint https://my-json-server.typicode.com/SaudeHi/hi-teste
 
-Arquivo **patient.json**
+Exemplo:
 ```
 GET / patient
+https://my-json-server.typicode.com/SaudeHi/hi-teste/patient
 ```
 
 
